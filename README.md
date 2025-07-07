@@ -1,4 +1,4 @@
-# Stealth-Planning Demo 
+# Action Window Planning for Stealth Missions Demo 
 
 This repository contains **prototype code** for experimenting with VIP path planning in grid-based stealth games.  
 It is **not** a finished framework—just a collection of scripts we used for early feasibility studies.  
